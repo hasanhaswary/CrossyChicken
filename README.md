@@ -9,6 +9,11 @@
 
 A modern take on the classic Crossy Road game built with Unity! Guide your chicken across various terrains including grass, roads, rivers, and railways. Dodge cars and trains, hop on logs to cross rivers, and see how far you can go. Challenge yourself to reach the target score and complete each level!
 
+### 🕹️ CROSSYCHICKEN GAME DEMO
+https://github.com/user-attachments/assets/22e043db-7ee4-4a86-bf5a-b2a4609eeeed
+
+
+
 ## ✨ Features
 
 - 🎮 Simple and intuitive controls with WASD or arrow keys
